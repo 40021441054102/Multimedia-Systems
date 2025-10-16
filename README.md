@@ -8,6 +8,9 @@ Multimedia Systems, Exercises and Projects
 
 ## Project Images
 #### Project Workbench
+
+https://github.com/user-attachments/assets/834807cd-7e8b-4b6d-89c9-976f909c756f
+
 <div align="center">
   <img src="./Assets/2.png" width="49%"/>
   <img src="./Assets/3.png" width="49%"/>
